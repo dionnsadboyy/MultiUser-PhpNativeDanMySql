@@ -1,13 +1,3 @@
-# Responsive Website Delivery 🚚
-## [Watch it on youtube](https://youtu.be/xOQU3YNHxJc)
-### Responsive Website Delivery
+# Responsive Website Delivery With Multiuser PHP🚚
 
-- Website Delivery, using HTML, Sass and JavaScript.
-- Includes a dark and light mode.
-- Color customization.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
-
-Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
-
-![Delivery website](/preview.png)
+Mentahan Multiuser PHP Native with MySQL merupakan kerangka kerja dasar yang telah disiapkan untuk pengembangan aplikasi web dengan dukungan otentikasi multiuser. Dibangun menggunakan PHP tanpa menggunakan framework eksternal, mentahan ini menyediakan fitur dasar seperti registrasi pengguna, login, logout, manajemen sesi, dan pengelolaan informasi pengguna dalam basis data MySQL. Dengan menggunakan mentahan ini, pengembang dapat memulai proyek pengembangan aplikasi web yang melibatkan beberapa pengguna dengan cepat dan dengan kemudahan penyesuaian sesuai kebutuhan proyek.
